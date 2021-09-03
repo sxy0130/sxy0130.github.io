@@ -16,7 +16,7 @@ body {
 
 .word1 {
     position: absolute;
-    width: 400px;
+    width: 800px;
     height: 120px;
     left: 560px;
     top: 40px;
@@ -36,15 +36,15 @@ body {
 
 .para2 {
     position: absolute;
-    width: 400px;
+    width: 470px;
     height: 120px;
-    left: 990px;
+    left: 950px;
     top: 420px;
 
     font-family: Source Sans Pro;
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 30px;
     display: flex;
     align-items: flex-end;
@@ -89,7 +89,7 @@ body {
     width: 750px;
     height: 50px;
     left: 560px;
-    top: 850px;
+    top: 900px;
 
     font-family: Source Sans Pro;
     font-style: normal;
@@ -108,7 +108,7 @@ body {
     position: absolute;
     width: 480px;
     height: 360px;
-    left: 510px;
+    left: 450px;
     top: 160px;
 
 }

@@ -70,6 +70,7 @@ background: #FFFFFF(0, 0, 0, 1);
     font-weight: 500;
     font-size: 32px;
     line-height: 34px;
+    text-decoration: none;
     text-align: center;
     text-shadow: 5px 5px 10px rgba(50, 50, 50, 0.4);
     color: #323232; 
@@ -91,6 +92,7 @@ background: #FFFFFF(0, 0, 0, 1);
     font-weight: 500;
     font-size: 32px;
     line-height: 34px;
+    text-decoration: none;
     text-align: center;
     text-shadow: 5px 5px 10px rgba(50, 50, 50, 0.4);
     color: #323232;
@@ -109,6 +111,7 @@ background: #FFFFFF(0, 0, 0, 1);
     height: 760px;
     left: 240px;
     top: 186px;
+    transition: all.2s linear;
 }
 .image1:hover img{
     transform: translate(0px,-40px);
@@ -123,6 +126,7 @@ background: #FFFFFF(0, 0, 0, 1);
     height: 360px;
     left: 680px;
     top: 186px;
+    transition: all.2s linear;
 }
 
 .image2:hover img{
@@ -138,6 +142,7 @@ background: #FFFFFF(0, 0, 0, 1);
     height: 360px;
     left: 1200px;
     top: 186px;
+    transition: all.2s linear;
 }
 .image3:hover img{
     transform: translate(0px,-40px);
@@ -152,6 +157,7 @@ background: #FFFFFF(0, 0, 0, 1);
     height: 360px;
     left: 680px;
     top: 586px;
+    transition: all.2s linear;
 }
 .image4:hover img{
     transform: translate(0px,-40px);
@@ -166,6 +172,7 @@ background: #FFFFFF(0, 0, 0, 1);
       height: 360px;
       left: 1200px;
       top: 586px;
+      transition: all.2s linear;
 }
 .image5:hover img{
     transform: translate(0px,-40px);
